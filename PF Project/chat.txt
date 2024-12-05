@@ -1,6 +1,1 @@
-=== New Chat Session Started ===
-saad has joined the chat.
-zaid has joined the chat.
-saad: hello zaid
-saad: hi saad
-saad has left the chat.
+
